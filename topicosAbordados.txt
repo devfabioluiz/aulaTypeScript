@@ -1,0 +1,10 @@
+    1. O que é TypeScript?
+    2. História do TypeScript
+    3. Objetivos e propósitos do TypeScript
+    4. Instalação do TypeScript
+    5. Compilação de aplicativos TypeScript
+    6. Tipos de dados
+    8. Saída no console
+    12. Arrays
+
+    
